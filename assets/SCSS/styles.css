@@ -39,7 +39,7 @@
     width: 7px;
 }
 ::-webkit-scrollbar-thumb {
-    background: var(--first-color-alt); 
+    background: var(--first-color); 
     border-radius: 10px;
 }
 
